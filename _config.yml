@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
+title: 宅崽笔记
+subtitle: '在技术领域无脑躺平的崽'
+description: 'Python、SQL'
+keywords: 数据结构、机器学习、数据分析
 author: John Doe
-language: en
+language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: http://anannuoqi.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next #landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
@@ -105,3 +105,9 @@ deploy:
   type: git
   repository: https://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@github.com/anannuoqi91/anannuoqi91.github.io.git
   branch: main
+
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
