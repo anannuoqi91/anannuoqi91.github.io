@@ -5,9 +5,9 @@
 # Site
 title: 宅崽笔记
 subtitle: '在技术领域无脑躺平的崽'
-description: 'Python、SQL'
-keywords: 数据结构、机器学习、数据分析
-author: John Doe
+description: '数据结构、机器学习、数据分析'
+keywords: 数据结构、机器学习、数据分析、Python、SQL
+author: 宅摘
 language: zh-CN
 timezone: ''
 
