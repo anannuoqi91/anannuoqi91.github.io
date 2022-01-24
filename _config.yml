@@ -103,7 +103,7 @@ theme: next #landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: https://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@github.com/anannuoqi91/anannuoqi91.github.io.git
+  repository: https://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@github.com/anannuoqi91/anannuoqi91.github.io.git
   branch: main
 
 search:
