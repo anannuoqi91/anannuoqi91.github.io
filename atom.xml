@@ -3,11 +3,11 @@
   <title>宅崽的笔记</title>
   
   <subtitle>在技术领域中无脑躺平的崽</subtitle>
-  <link href="https://anannuoqi91.github.io/project/atom.xml" rel="self"/>
+  <link href="https://anannuoqi91.github.io/atom.xml" rel="self"/>
   
-  <link href="https://anannuoqi91.github.io/project/"/>
+  <link href="https://anannuoqi91.github.io/"/>
   <updated>2022-01-24T02:21:28.819Z</updated>
-  <id>https://anannuoqi91.github.io/project/</id>
+  <id>https://anannuoqi91.github.io/</id>
   
   <author>
     <name>宅摘</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://anannuoqi91.github.io/project/2022/01/24/hello-world/"/>
-    <id>https://anannuoqi91.github.io/project/2022/01/24/hello-world/</id>
+    <link href="https://anannuoqi91.github.io/2022/01/24/hello-world/"/>
+    <id>https://anannuoqi91.github.io/2022/01/24/hello-world/</id>
     <published>2022-01-24T02:21:28.819Z</published>
     <updated>2022-01-24T02:21:28.819Z</updated>
     
