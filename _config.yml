@@ -105,7 +105,7 @@ theme: next #landscape
 ## https://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@github.com/anannuoqi91/anannuoqi91.github.io.git
 deploy:
   type: git
-  repository: https://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@github.com/anannuoqi91/anannuoqi91.github.io.git
+  repository: https://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@github.com/anannuoqi91/anannuoqi91.github.io.git
   branch: main
 
 search:
